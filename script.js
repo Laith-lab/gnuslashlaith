@@ -2,38 +2,38 @@
 const fileSystem = {
     "/": {
         "Projects": {
-            "ELSL_Glove.txt": "https://github.com/Laith-lab",
-            "Mp3Player.txt": "https://github.com/Laith-lab",
-            "TheLibrary.txt": "https://github.com/Laith-lab",
-            "Whackomole.txt": "https://github.com/Laith-lab/pico-whack"
+            "ELSL_Glove.txt": `https://github.com/gnuslashlaith`,
+            "Mp3Player.txt": "https://github.com/gnuslashlaith",
+            "TheLibrary.txt": "https://github.com/gnuslashlaith",
+            "Whackomole.txt": "https://github.com/gnuslashlaith/pico-whack"
         },
         "Notes": {
-            "notes.txt": "https://github.com/Laith-lab"
+            "notes.txt": "https://github.com/gnuslashlaith"
         },
         "Blog": {
             "blog.txt": "laithweb.pages.dev"
             
         },
         "Contacts": {
-            "Github - Laith-lab": "https://github.com/Laith-lab",
+            "Github - Laith-lab": "https://github.com/gnuslashlaith",
             "Email": "lake.ghandour@gmail.com"
         },
     },
     "/Projects": {
-        "ELSL_Glove.txt": "https://github.com/Laith-lab",
-            "Mp3Player.txt": "https://github.com/Laith-lab",
-            "TheLibrary.txt": "https://github.com/Laith-lab",
-            "Whackomole.txt": "https://github.com/Laith-lab/pico-whack"
+        "ELSL_Glove.txt": "https://github.com/gnuslashlaith",
+            "Mp3Player.txt": "https://github.com/gnuslashlaith",
+            "TheLibrary.txt": "https://github.com/gnuslashlaith",
+            "Whackomole.txt": "https://github.com/gnuslashlaith/pico-whack"
     },
     "/Notes": {
-        "notes.txt": "https://github.com/Laith-lab"
+        "notes.txt": "https://github.com/gnuslashlaith"
     },
     "/Blog": {
         "blog.txt": "https://laithweb.pages.dev"
         
     },
     "/Contacts": {
-        "Github - Laith-lab": "https://github.com/Laith-lab",
+        "Github - Laith-lab": "https://github.com/gnuslashlaith",
         "Email": "lake.ghandour@gmail.com"
     },
 };
